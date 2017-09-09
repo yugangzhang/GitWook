@@ -1,2 +1,4 @@
 Beiging
 Shanghai
+QingDao
+ChongQing
